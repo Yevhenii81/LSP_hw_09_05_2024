@@ -1,0 +1,9 @@
+﻿  hw_09_05_2024.cpp
+C:\Projects in VS\hw_09_05_2024\hw_09_05_2024\hw_09_05_2024.cpp(22,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Projects in VS\hw_09_05_2024\hw_09_05_2024\hw_09_05_2024.cpp(40,21): warning C4305: инициализация: усечение из "double" в "float"
+C:\Projects in VS\hw_09_05_2024\hw_09_05_2024\hw_09_05_2024.cpp(53,31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Projects in VS\hw_09_05_2024\hw_09_05_2024\hw_09_05_2024.cpp(54,33): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Projects in VS\hw_09_05_2024\hw_09_05_2024\hw_09_05_2024.cpp(60,27): warning C4305: инициализация: усечение из "double" в "float"
+C:\Projects in VS\hw_09_05_2024\hw_09_05_2024\hw_09_05_2024.cpp(61,29): warning C4305: инициализация: усечение из "double" в "float"
+C:\Projects in VS\hw_09_05_2024\hw_09_05_2024\hw_09_05_2024.cpp(80,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  hw_09_05_2024.vcxproj -> C:\Projects in VS\hw_09_05_2024\x64\Debug\hw_09_05_2024.exe
